@@ -8,7 +8,7 @@
 **Alumno(s):** [Rodriguez Morales Angel Natahel]  
 **Docente:** [Gustavo Moises Romero Gonzalez]  
 **Fecha:** [25/05/26]  
-**Repositorio Git:** [URL del repositorio Git]
+
 
 ---
 
