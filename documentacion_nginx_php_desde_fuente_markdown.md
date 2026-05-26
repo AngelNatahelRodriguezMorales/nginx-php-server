@@ -5,9 +5,9 @@
 **Institución:** Tecnológico de Estudios Superiores del Oriente del Estado de México (TESOEM)  
 **Materia:** Administración de Servidores Linux  
 **Proyecto:** Implementación de servidor NGINX y PHP-FPM compilados desde código fuente  
-**Alumno(s):** [Nombre(s) de integrantes]  
-**Docente:** [Nombre del docente]  
-**Fecha:** [Fecha de entrega]  
+**Alumno(s):** [Rodriguez Morales Angel Natahel]  
+**Docente:** [Gustavo Moises Romero Gonzalez]  
+**Fecha:** [25/05/26]  
 **Repositorio Git:** [URL del repositorio Git]
 
 ---
