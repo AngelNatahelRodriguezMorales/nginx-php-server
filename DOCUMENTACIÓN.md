@@ -40,13 +40,13 @@ Implementar un servidor web NGINX compilado desde código fuente junto con PHP-F
 Primero se actualizó el sistema operativo e instalaron las dependencias necesarias para la compilación.
 
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo dnf update && sudo apt upgrade -y
 ```
 
 ## Instalación de dependencias
 
 ```bash
-sudo apt install -y build-essential gcc g++ make wget curl git \
+sudo dnf install -y build-essential gcc g++ make wget curl git \
 libpcre3 libpcre3-dev zlib1g zlib1g-dev libssl-dev \
 libxml2-dev libsqlite3-dev libcurl4-openssl-dev \
 libjpeg-dev libpng-dev libwebp-dev libfreetype6-dev \
